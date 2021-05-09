@@ -1,0 +1,14 @@
+{
+  "name": "luxurious",
+  "version": "1.0.0",
+  "description": "personal home for good people",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "raju",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
