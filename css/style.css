@@ -82,7 +82,7 @@ body {
   width: 70%; }
 
 .gallery {
-  background-color: #c68863;
+  background-color: #f9f7f6;
   grid-column: full-start / full-end;
   display: grid;
   grid-template-columns: repeat(8, 1fr);
